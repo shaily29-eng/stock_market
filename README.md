@@ -1,1 +1,1 @@
-# stocks_market
+# stock_market
